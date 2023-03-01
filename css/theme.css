@@ -2303,14 +2303,14 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	#header .header-nav.header-nav-line.header-nav-top-line nav > ul > li > a:before, #header .header-nav.header-nav-line.header-nav-top-line nav > ul > li:hover > a:before {
 		content: "";
 		position: absolute;
-		width: 100%;
+		width: 85%;
 		height: 3px;
-		top: -2px;
-		left: 0;
+		
+		left: 7px;
 	}
 
 	#header .header-nav.header-nav-line.header-nav-top-line.header-nav-top-line-with-border nav > ul > li > a:before, #header .header-nav.header-nav-line.header-nav-top-line.header-nav-top-line-with-border nav > ul > li:hover > a:before {
-		top: -4px;
+		top: 65px;
 	}
 
 	#header .header-nav.header-nav-line.header-nav-top-line-animated nav > ul > li > a:before {
