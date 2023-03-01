@@ -220,7 +220,7 @@ if(isset($_POST['emailSent'])) {
 																<a class="dropdown-item" href="#">Blog</a>
 																<ul class="dropdown-menu">
 																	<li><a class="dropdown-item" href="index-blog.html">Blog - Version 1</a></li>
-																	<li><a class="dropdown-item" href="index-blog-2.html">Blog - Version 2</a></li>
+																	<li><a class="dropdown-item" href="blog.html">Blog - Version 2</a></li>
 																	<li><a class="dropdown-item" href="index-blog-3.html">Blog - Version 3</a></li>
 																	<li><a class="dropdown-item" href="index-blog-4.html">Blog - Version 4</a></li>
 																	<li><a class="dropdown-item" href="index-blog-5.html">Blog - Version 5</a></li>
@@ -864,13 +864,13 @@ if(isset($_POST['emailSent'])) {
 															<li class="dropdown-submenu">
 																<a class="dropdown-item" href="#">Services</a>
 																<ul class="dropdown-menu">
-																	<li><a class="dropdown-item" href="page-services.html">Services - Version 1</a></li>
+																	<li><a class="dropdown-item" href="services.html">Services - Version 1</a></li>
 																	<li><a class="dropdown-item" href="page-services-2.html">Services - Version 2</a></li>
 																	<li><a class="dropdown-item" href="page-services-3.html">Services - Version 3</a></li>
 																</ul>
 															</li>
 															<li><a class="dropdown-item" href="page-careers.html">Careers</a></li>
-															<li><a class="dropdown-item" href="page-faq.html">FAQ</a></li>
+															<li><a class="dropdown-item" href="faq.html">FAQ</a></li>
 															<li><a class="dropdown-item" href="page-login.html">Login / Register</a></li>
 															<li><a class="dropdown-item" href="page-user-profile.html">User Profile</a></li>
 														</ul>
