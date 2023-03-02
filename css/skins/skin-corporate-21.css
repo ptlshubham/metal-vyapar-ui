@@ -857,15 +857,15 @@ html .nav-pills-secondary a {
 }
 
 html .nav-pills-secondary a:hover {
-	color: #0099e6;
+	color: #376a96;
 }
 
 html .nav-pills-secondary a:focus {
-	color: #0099e6;
+	color: #376a96;
 }
 
 html .nav-pills-secondary a:active {
-	color: #0077b3;
+	color: #162149;
 }
 
 html .nav-pills-secondary .nav-link.active,
@@ -1328,8 +1328,8 @@ html .show > .btn-secondary-scale-2.dropdown-toggle {
 html .btn-check:active + .btn-secondary,
 html .btn-check:checked + .btn-secondary,
 html .btn-check:focus + .btn-secondary {
-	background-color: #0077b3;
-	border-color: #162149 #162149 #0077b3;
+	background-color: #162149;
+	border-color: #162149 #162149 #162149;
 	color: #FFF;
 }
 
@@ -2089,12 +2089,12 @@ html .btn-with-arrow.btn-secondary.btn-outline {
 }
 
 html .btn-with-arrow.btn-secondary.btn-outline:hover span {
-	background-color: #0099e6 !important;
+	background-color: #376a96 !important;
 	box-shadow: none;
 }
 
 html .btn-with-arrow-solid.btn-secondary span {
-	background-color: #0077b3;
+	background-color: #162149;
 }
 
 html .btn-with-arrow.btn-tertiary {
@@ -2665,7 +2665,7 @@ html section.section-primary-scale-2 .sort-source.sort-source-style-2 > li.activ
 
 html section.section-secondary {
 	background-color: #162149 !important;
-	border-color: #0077b3 !important;
+	border-color: #162149 !important;
 }
 
 html section.section-secondary h1,
@@ -5364,23 +5364,23 @@ html #header .header-top.header-top-primary .dropdown-menu a:focus {
 
 html #header .header-top.header-top-secondary {
 	background: #162149;
-	border-top-color: #0077b3;
+	border-top-color: #162149;
 }
 
 html #header .header-top.header-top-secondary .header-nav-top ul > li.open > a {
-	background: #0099e6;
+	background: #376a96;
 }
 
 html #header .header-top.header-top-secondary .header-nav-top ul > li > a:hover,
 html #header .header-top.header-top-secondary .header-nav-top ul > li.open > a:hover,
 html #header .header-top.header-top-secondary .header-nav-top ul > li > a:focus,
 html #header .header-top.header-top-secondary .header-nav-top ul > li.open > a:focus {
-	background: #0099e6;
+	background: #376a96;
 }
 
 html #header .header-top.header-top-secondary .dropdown-menu {
-	background: #0099e6;
-	border-color: #0099e6;
+	background: #376a96;
+	border-color: #376a96;
 }
 
 html #header .header-top.header-top-secondary .dropdown-menu a:hover,
@@ -5565,15 +5565,15 @@ html .testimonial-quotes-primary blockquote:after {
 }
 
 html .testimonial-secondary blockquote {
-	background: #0099e6;
+	background: #376a96;
 }
 
 html .testimonial-secondary .testimonial-arrow-down {
-	border-top-color: #0099e6;
+	border-top-color: #376a96;
 }
 
 html .testimonial-secondary.testimonial-style-7 {
-	background: #0099e6;
+	background: #376a96;
 }
 
 html .testimonial-quotes-secondary blockquote:before,
@@ -5724,15 +5724,15 @@ html .testimonial-quotes-light blockquote:after {
 }
 
 .form-control .testimonial-secondary blockquote {
-	background: #0099e6;
+	background: #376a96;
 }
 
 .form-control .testimonial-secondary .testimonial-arrow-down {
-	border-top-color: #0099e6;
+	border-top-color: #376a96;
 }
 
 .form-control .testimonial-secondary.testimonial-style-7 {
-	background: #0099e6;
+	background: #376a96;
 }
 
 .form-control .testimonial-quotes-secondary blockquote:before,
