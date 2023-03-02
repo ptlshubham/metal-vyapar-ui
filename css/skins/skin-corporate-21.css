@@ -1219,7 +1219,7 @@ html .btn-secondary {
 	border-color: #162149 #162149 #006699;
 	color: #FFF;
 	--color: #162149;
-	--hover: #00a1f2;
+	--hover: #376a96;
 	--disabled: #162149;
 	--active: #006ea6;
 }
@@ -1232,7 +1232,7 @@ html .btn-secondary.hover {
 
 html .btn-secondary:hover:not(.bg-transparent),
 html .btn-secondary.hover:not(.bg-transparent) {
-	background-color: #00a1f2;
+	background-color: #376a96;
 }
 
 html .btn-secondary:focus,
@@ -2224,7 +2224,7 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient:not(.btn-outline):hover,
 .btn-gradient:not(.btn-outline).hover {
-	background: linear-gradient(135deg, #277ffe 0%, #00a1f2 80%) !important;
+	background: linear-gradient(135deg, #277ffe 0%, #376a96 80%) !important;
 	color: #FFF;
 }
 
@@ -2252,8 +2252,8 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient.btn-outline:hover,
 .btn-gradient.btn-outline.hover {
-	-o-border-image: linear-gradient(135deg, #277ffe 0%, #00a1f2 80%);
-	border-image: linear-gradient(135deg, #277ffe 0%, #00a1f2 80%);
+	-o-border-image: linear-gradient(135deg, #277ffe 0%, #376a96 80%);
+	border-image: linear-gradient(135deg, #277ffe 0%, #376a96 80%);
 	color: #277ffe;
 }
 
@@ -2683,7 +2683,7 @@ html section.section-secondary p {
 
 html section.section-secondary-scale-2 {
 	background-color: #006699 !important;
-	border-color: #005580 !important;
+	border-color: #376a96 !important;
 }
 
 html section.section-secondary-scale-2 .sort-source.sort-source-style-2 > li.active > a:after {

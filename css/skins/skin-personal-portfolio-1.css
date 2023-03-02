@@ -1100,7 +1100,7 @@ html .btn-primary {
 	border-color: #162149 #162149 #006699;
 	color: #FFF;
 	--color: #162149;
-	--hover: #00a1f2;
+	--hover: #376a96;
 	--disabled: #162149;
 	--active: #006ea6;
 }
@@ -1113,7 +1113,7 @@ html .btn-primary.hover {
 
 html .btn-primary:hover:not(.bg-transparent),
 html .btn-primary.hover:not(.bg-transparent) {
-	background-color: #00a1f2;
+	background-color: #376a96;
 }
 
 html .btn-primary:focus,
@@ -2224,7 +2224,7 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient:not(.btn-outline):hover,
 .btn-gradient:not(.btn-outline).hover {
-	background: linear-gradient(135deg, #00a1f2 0%, #2f2f2f 80%) !important;
+	background: linear-gradient(135deg, #376a96 0%, #2f2f2f 80%) !important;
 	color: #FFF;
 }
 
@@ -2252,9 +2252,9 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient.btn-outline:hover,
 .btn-gradient.btn-outline.hover {
-	-o-border-image: linear-gradient(135deg, #00a1f2 0%, #2f2f2f 80%);
-	border-image: linear-gradient(135deg, #00a1f2 0%, #2f2f2f 80%);
-	color: #00a1f2;
+	-o-border-image: linear-gradient(135deg, #376a96 0%, #2f2f2f 80%);
+	border-image: linear-gradient(135deg, #376a96 0%, #2f2f2f 80%);
+	color: #376a96;
 }
 
 .btn-gradient.btn-outline:focus,
@@ -2282,7 +2282,7 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient-primary:not(.btn-outline):hover,
 .btn-gradient-primary:not(.btn-outline).hover {
-	background: linear-gradient(135deg, #0092db 0%, #00a1f2 80%) !important;
+	background: linear-gradient(135deg, #0092db 0%, #376a96 80%) !important;
 	color: #FFF;
 }
 
@@ -2298,7 +2298,7 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient-primary:not(.btn-outline):active,
 .btn-gradient-primary:not(.btn-outline).active {
-	background: linear-gradient(135deg, #0092db 0%, #00a1f2 80%) !important;
+	background: linear-gradient(135deg, #0092db 0%, #376a96 80%) !important;
 	color: #FFF !important;
 }
 
@@ -2310,9 +2310,9 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient-primary.btn-outline:hover,
 .btn-gradient-primary.btn-outline.hover {
-	-o-border-image: linear-gradient(135deg, #00a1f2 0%, #00a1f2 80%);
-	border-image: linear-gradient(135deg, #00a1f2 0%, #00a1f2 80%);
-	color: #00a1f2;
+	-o-border-image: linear-gradient(135deg, #376a96 0%, #376a96 80%);
+	border-image: linear-gradient(135deg, #376a96 0%, #376a96 80%);
+	color: #376a96;
 }
 
 .btn-gradient-primary.btn-outline:focus,
@@ -2328,9 +2328,9 @@ html .btn-with-arrow-solid.btn-light span {
 
 .btn-gradient-primary.btn-outline:active,
 .btn-gradient-primary.btn-outline.active {
-	-o-border-image: linear-gradient(135deg, #00a1f2 0%, #00a1f2 80%);
-	border-image: linear-gradient(135deg, #00a1f2 0%, #00a1f2 80%);
-	color: #00a1f2;
+	-o-border-image: linear-gradient(135deg, #376a96 0%, #376a96 80%);
+	border-image: linear-gradient(135deg, #376a96 0%, #376a96 80%);
+	color: #376a96;
 }
 
 .pagination > a,
@@ -2394,7 +2394,7 @@ body.dark .pagination > .active > a.hover {
 body.dark .pagination > .active > a:hover:not(.bg-transparent),
 .pagination > .active > a.hover:not(.bg-transparent),
 body.dark .pagination > .active > a.hover:not(.bg-transparent) {
-	background-color: #00a1f2;
+	background-color: #376a96;
 }
 
 .pagination > .active > a:focus,
@@ -2656,7 +2656,7 @@ html section.section-primary p {
 
 html section.section-primary-scale-2 {
 	background-color: #006699 !important;
-	border-color: #005580 !important;
+	border-color: #376a96 !important;
 }
 
 html section.section-primary-scale-2 .sort-source.sort-source-style-2 > li.active > a:after {
@@ -3311,8 +3311,8 @@ html .thumb-info .thumb-info-action-icon-light i {
 }
 
 .thumb-info-ribbon:before {
-	border-right-color: #005580;
-	border-left-color: #005580;
+	border-right-color: #376a96;
+	border-left-color: #376a96;
 }
 
 .thumb-info.thumb-info-block-primary .thumb-info-wrapper:before {
@@ -3370,7 +3370,7 @@ html .inverted-light {
 
 .owl-carousel:not(.nav-arrows-1):not(.show-nav-title) .owl-nav button[class*="owl-"]:hover,
 .owl-carousel:not(.nav-arrows-1):not(.show-nav-title) .owl-nav button[class*="owl-"].hover {
-	background-color: #00a1f2;
+	background-color: #376a96;
 	border-color: #00aaff #00aaff #162149;
 }
 
@@ -6992,7 +6992,7 @@ html .slide-overlay.slide-overlay-gradient .slotholder:after {
 .tparrows.tparrows-carousel.tp-rightarrow:hover:not(.bg-transparent),
 .tparrows.tparrows-carousel.tp-leftarrow.hover:not(.bg-transparent),
 .tparrows.tparrows-carousel.tp-rightarrow.hover:not(.bg-transparent) {
-	background-color: #00a1f2;
+	background-color: #376a96;
 }
 
 .tparrows.tparrows-carousel.tp-leftarrow:focus,
@@ -7080,8 +7080,8 @@ html .slide-overlay.slide-overlay-gradient .slotholder:after {
 }
 
 #footer .footer-ribbon:before {
-	border-right-color: #005580;
-	border-left-color: #005580;
+	border-right-color: #376a96;
+	border-left-color: #376a96;
 }
 
 #footer .footer-nav.footer-nav-bottom-line nav > ul:not(:hover) > li > a.active {
