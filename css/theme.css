@@ -557,6 +557,7 @@ pre {
 	position: relative;
 	padding-left: 10px;
 	margin-left: -3px;
+	padding-top: 8px;
 }
 
 #header .header-nav-features:before, #header .header-nav-features:after {
