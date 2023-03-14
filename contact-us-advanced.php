@@ -104,15 +104,15 @@ if(isset($_POST['emailSent'])) {
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Contact Us Advanced | Porto - Multipurpose Website Template</title>	
+		<title>Contact Us Advanced | Metalvyapar</title>	
 
 		<meta name="keywords" content="WebSite Template" />
-		<meta name="description" content="Porto - Multipurpose Website Template">
+		<meta name="description" content="Metalvyapar">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+		<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="img/favicon.png">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
